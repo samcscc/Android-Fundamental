@@ -4,6 +4,6 @@
 public class Greeting {
 
     public static void main(String[] args) {
-        System.out.println("Greeting from Android class!!!!!!");
+        System.out.println("Greeting from Android class!");
     }
 }
