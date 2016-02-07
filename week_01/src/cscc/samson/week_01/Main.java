@@ -1,4 +1,4 @@
-package edu.cscc.samson;
+package cscc.samson.week_01;
 
 /**
  * Created by OWNER on 1/28/2016.

@@ -3,10 +3,11 @@ package edu.cscc.samson;
 /**
  * Created by OWNER on 1/28/2016.
  */
-public class SwithStatement {
+import java.lang.*;
+public class SwitchStatement {
 
     public static void main(String[] args) {
-        String windDirection = "south";
+        String windDirection = "west";
 
         switch (windDirection ){
 
@@ -29,11 +30,6 @@ public class SwithStatement {
                 System.out.println("I don't know the direction");
         }
 
-   // list short cut
-        /*
-        String[] listName = {"sam", "son"}
-        for (String word : listName)
 
-         */
     }
 }

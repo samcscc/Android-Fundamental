@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CSCC-Android-Fundamentals-2.iml" filepath="$PROJECT_DIR$/CSCC-Android-Fundamentals-2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/week-01/week-01.iml" filepath="$PROJECT_DIR$/week-01/week-01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/week-02/week-02.iml" filepath="$PROJECT_DIR$/week-02/week-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Android-Fundamental.iml" filepath="$PROJECT_DIR$/Android-Fundamental.iml" />
       <module fileurl="file://$PROJECT_DIR$/week-03/week-03.iml" filepath="$PROJECT_DIR$/week-03/week-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week_01/week_01.iml" filepath="$PROJECT_DIR$/week_01/week_01.iml" />
     </modules>
   </component>
 </project>

@@ -1,3 +1,5 @@
+package edu.cscc.samson;
+
 /**
  * Created by OWNER on 1/28/2016.
  */
